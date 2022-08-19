@@ -1,1 +1,6 @@
+
 This is sample file2 
+
+Reset 2 this file
+
+ddf
